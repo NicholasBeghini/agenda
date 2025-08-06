@@ -8,15 +8,16 @@
   "description": "Um aplicativo de lista de tarefas simples, feito como um PWA.",
   "icons": [
     {
-      "src": "icons/icon-192x192.png",
+      "src": "icons/elite.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/icon-512x512.png",
+      "src": "icons/mestre.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 }
+
 
